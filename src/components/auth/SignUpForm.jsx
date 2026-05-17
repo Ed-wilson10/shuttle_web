@@ -113,7 +113,7 @@ return; // stop here — rest of logic moves to OTPPage
       <div className="form-group">
         <label>Index Number</label>
         <input type="text" placeholder="e.g. UCC/CS/22/0101" value={form.index} onChange={set("index")} />
-      </div>
+      </div>    
 
       <div className="form-group">
         <label>Programme</label>
